@@ -1,7 +1,7 @@
 ![ArrayVerse Banner](images/banner.jpg)  
-# ArrayVerse 🌌  
+# Array
 
-**ArrayVerse** is a next-generation multi-agent application designed to revolutionize how you interact with data, queries, and systems. Powered by an intelligent swarm of AI agents, the platform efficiently processes complex tasks by distributing workloads across specialized agents.
+**Array** is a next-generation multi-agent application designed to revolutionize how you interact with data, queries, and systems. Powered by an intelligent swarm of AI agents, the platform efficiently processes complex tasks by distributing workloads across specialized agents.
 
 ## Features 🌟  
 
