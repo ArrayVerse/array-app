@@ -4,8 +4,7 @@ import threading
 from agents.api_server import APIServer
 from agents.swarm import AgentSwarm
 from agents.telegram_bot import TelegramBot
-from configs.settings import (API_HOST, API_PORT, TELEGRAM_BOT_TOKEN, USE_API,
-                              USE_MEMORY)
+from configs.settings import API_HOST, API_PORT, TELEGRAM_BOT_TOKEN, USE_API, USE_MEMORY
 
 
 async def cli_mode():

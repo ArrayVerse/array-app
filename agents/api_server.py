@@ -8,8 +8,7 @@ from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
 
 from agents.swarm import AgentSwarm
-from configs.settings import (SEND_FULL_SWARM_RESPONSE, SSL_ENABLED,
-                              USE_STREAMING)
+from configs.settings import SEND_FULL_SWARM_RESPONSE, SSL_ENABLED, USE_STREAMING
 
 
 class AgentParameters(BaseModel):
